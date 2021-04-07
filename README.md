@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [Github](https://www.github.com/MKoesters)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/MKoesters?tab=repositories)
 
 - 💬 Ask me about **Python, computational mass spec, bioinformatics**
 
