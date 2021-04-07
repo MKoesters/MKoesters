@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkoesters" alt="mkoesters" /></a> </p>
 
-- 🔭 I’m currently working on [pymzML](www.github.com/pymzml/pymzml)
+- 🔭 I’m currently working on [pymzML](https://www.github.com/pymzml/pymzml)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [www.github.com/MKoesters](www.github.com/MKoesters)
+- 👨‍💻 All of my projects are available at [Github](https://www.github.com/MKoesters)
 
 - 💬 Ask me about **Python, computational mass spec, bioinformatics**
 
