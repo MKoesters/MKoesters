@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/MKoesters?tab=repositories)
+- 👨‍💻 New projects are available at [Codeberg](https://codeberg.org/MKoesters)
 
 - 💬 Ask me about **Computational mass spec, DevOps, Data analyis and Data engineering**
 
