@@ -16,38 +16,6 @@ My background is in computational biology (PhD on tRNA modifications and protein
 
 ---
 
-### Open source contributions
-
-**Proteomics / mass spectrometry**
-
-| Repo | What it does |
-|------|--------------|
-| [pymzml/pymzML](https://github.com/pymzml/pymzML) | Python interface for mzML mass spectrometry files — [published in Bioinformatics 2018](https://doi.org/10.1093/bioinformatics/bty046) |
-| [computational-ms/pyiohat](https://github.com/computational-ms/pyiohat) | I/O handler for peptide search engine results |
-| [computational-ms/unify_idents](https://github.com/computational-ms/unify_idents) | Unifies peptide identifications across search engines |
-| [ursgal/ursgal](https://github.com/ursgal/ursgal) | Wrapper framework for proteomics tools |
-| [computational-ms/unimod-mapper](https://github.com/computational-ms/unimod-mapper) | UniMod modification mapping |
-| [LeidelLab/SMITER](https://github.com/LeidelLab/SMITER) | Synthetic mzML writer for benchmarking — [published in Genes 2021](https://doi.org/10.3390/genes12030396) |
-| [computational-ms/chemical-composition](https://github.com/computational-ms/chemical-composition) | Chemical formula handling for mass spec |
-| [pyqms/pyqms](https://github.com/pyqms/pyqms) | Fast mass spectrometry quantification |
-
-**Parameter & metadata tooling**
-
-| Repo | What it does |
-|------|--------------|
-| [urgap/urgap](https://github.com/urgap/urgap) | Unified resource governance and data provenance |
-| [uparma/uparma-lib](https://github.com/uparma/uparma-lib) | Unified parameter mapper for bioinformatics tools |
-| [uparma/uparma-py](https://github.com/uparma/uparma-py) | Python client for uparma-lib |
-
-
-**Infrastructure**
-
-| Repo | What it does |
-|------|--------------|
-| [ghga-de/charts](https://github.com/ghga-de/charts) | Helm charts for GHGA Kubernetes infrastructure |
-
----
-
 ### Currently learning
 
 Rust. Slowly.
